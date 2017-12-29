@@ -1,0 +1,1 @@
+A chrome extension to search the selected word through a right click which initiates opening of a new window. 
